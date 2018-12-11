@@ -8,7 +8,7 @@ Publication criteria – Data citation||
 |What do you mean by database “location”?|“Location” points to the source of the database, as accessed by the researcher. This information will typically be the URL of a website or the name and version of a software that ships with the prepackaged database.
 |When I obtain a dataset pre-packaged in a software, why must I specify the software name and version?|Software developers may alter a dataset to adapt it to their software structure, therefore citing the software name and version is necessary.
 ||
-|Is JIE creating yet another citation style for databases? Aren't there enough?|This citation guideline merely adapts the citation of online material to reflect two particularities: 1) disambiguation identifiers may be required beyond version numbers to reflect different variants of a database, like different aggregation levels, allocation methods, and constructs; and (2) databases may be modified and prepackaged in software rather than exist strictly online.
+|Is JIE creating yet another citation style for databases? Aren't there enough?| The citation guidelines do not represent a new citation style for databases. Instead, the citation guideline merely adapts the citation of online material to reflect two particularities: 1) disambiguation identifiers may be required beyond version numbers to reflect different variants of a database, like different aggregation levels, allocation methods, and constructs; and (2) databases may be modified and prepackaged in software rather than exist strictly online.
 ||
 ||
 Publication criteria – Data in figures and tables||
@@ -21,7 +21,7 @@ Publication criteria – Data in figures and tables||
 |What file formats are NOT acceptable to publish the data in my figures?|File formats that do not allow for efficient distinction between numerical and non-numerical values, or data and table structures, are excluded. This includes PDF files, Microsoft Word files, OpenDocument text (odt) files. Also, files that are not based on plain text files (or zipped plain text files) are not sufficiently human readable and require specialized software to inspect; therefore xls, xlsb, and other proprietary binary formats are excluded.
 ||
 ||
-|What table is considered big enough to require that the data be provided in spreadsheet?|Beyond <++>, JIE considers that extracting numerical data from a PDF table becomes a barrier to data reuse. To maximize impact, you are asked to share this same table in a format that is more machine readable to facilitate numerical computation (spreadsheet, csv, etc.)
+|What table is considered big enough to require that the data be provided in spreadsheet?|Beyond 50 data points, JIE considers that extracting numerical data from a PDF table becomes a barrier to data reuse. To maximize impact, you are asked to share this same table in a format that is more machine readable to facilitate numerical computation (spreadsheet, csv, etc.)
 ||
 |Does this apply to tables and figures SI?|No. It is encouraged - not required - for tables and figures in SI.
 ||
