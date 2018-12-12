@@ -1,14 +1,14 @@
 Publication criteria – Data citation||
 ||
-|How should I cite a database in JIE?|"Databases should be directly cited stating explicitly and unambiguously the version used. Solely citing a report or a publication describing a database is insufficient. The JIE citation style for databases is as follows:
+|How should I cite a database in JIE?|"Databases should be directly cited stating explicitly and unambiguously the version used. Solely citing a report or a publication describing a database is insufficient. The JIE citation style for databases follows the overall structure of APA webpage citation:
 
-> Authors. year-of-database-publication. Database title, version number, other disambiguation identifiers. Location. Date accessed. DOI"
+> Authors. (year-of-database-publication). *Title-including-version-number-and-other-disambiguation-identifiers.* Retrieved [date-of-retrieval] from [location-which-is-either-url-or-software]
 |The authors of a dataset require that I cite their article if my study relies on their dataset. Should I cite this article AND the dataset separately?|Yes. You should cite both.
 |Do I have to cite individual data points, or individual processes, from a database?|No. In most cases, that would be impractical, and therefore only the citation of the dataset is required. However, JIE strongly encourages linking to individual data points in system descriptions, notably by referring to them using their complete name, identification numbers (IDs) and Unique Universal IDs (UUIDs).
 |What do you mean by database “location”?|“Location” points to the source of the database, as accessed by the researcher. This information will typically be the URL of a website or the name and version of a software that ships with the prepackaged database.
 |When I obtain a dataset pre-packaged in a software, why must I specify the software name and version?|Software developers may alter a dataset to adapt it to their software structure, therefore citing the software name and version is necessary.
 ||
-|Is JIE creating yet another citation style for databases? Aren't there enough?| The citation guidelines do not represent a new citation style for databases. Instead, the citation guideline merely adapts the citation of online material to reflect two particularities: 1) disambiguation identifiers may be required beyond version numbers to reflect different variants of a database, like different aggregation levels, allocation methods, and constructs; and (2) databases may be modified and prepackaged in software rather than exist strictly online.
+|Is JIE creating yet another citation style for databases? Aren't there enough?| The citation guidelines do not represent a new citation style for databases. Instead, the citation guideline merely adapts the citation of online material to reflect two particularities: 1) disambiguation identifiers may be required beyond version numbers to reflect different variants of a database, like different aggregation levels, allocation methods, and constructs; and (2) databases may be distributed as prepackaged (and modified) in software, rather than exist strictly online.
 ||
 ||
 Publication criteria – Data in figures and tables||
@@ -16,7 +16,7 @@ Publication criteria – Data in figures and tables||
 |In a nutshell, what do I have to do?|The quantitative data in your article's figures should also be published in a numerical format (like a spreadsheet) to precisely and easily communicate the values of the different data points.
 ||
 |Why do I have to do this?|This measure aims to facilitate reuse of published data and results. Although figures are essential to communicate results, extracting data for reuse from these figures necessarily implies a visual evaluation, which can be laborious and imprecise. By providing the same data in numerical, machine readable format, these barriers and uncertainties are removed.
-|Some of the data that lead to a figure is proprietary, I cannot share it. Does this mean I cannot meet this publication requirement?|Not at all. This is not a problem. The only data that must be tabulated is the data that is directly represented _in_ the figure.
+|Some of the data that led to a figure is proprietary, I cannot share it. Does this mean I cannot meet this publication requirement?|Not at all. This is not a problem. The only data that must be tabulated is the data that is directly represented _in_ the figure.
 |What file formats are acceptable to publish the data in my figures?|A file format that ensures that the numerical data can be readily recognized by both software and humans should be chosen. Examples include comma-separated-value (CSV) files, Microsoft Office Open XML spreadsheet (XLSX files), OpenDocument spreadsheet (ODS files), and JSON files.
 |What file formats are NOT acceptable to publish the data in my figures?|File formats that do not allow for efficient distinction between numerical and non-numerical values, or data and table structures, are excluded. This includes PDF files, Microsoft Word files, OpenDocument text (odt) files. Also, files that are not based on plain text files (or zipped plain text files) are not sufficiently human readable and require specialized software to inspect; therefore xls, xlsb, and other proprietary binary formats are excluded.
 ||

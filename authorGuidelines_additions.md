@@ -12,22 +12,14 @@ citation must provide sufficient information to unambiguously identify
 the specific database used. Whenever applicable, this citation should
 provide database version number and any other disambiguating
 identifiers, the year of publication, the date of access, and the
-location at which it was accessed. This location can be a URL or a
-software in which the database is embedded. Whenever available, use
-digital object identfiers (DOI).
+location at which it was accessed. This location can be *either* a URL (preferably based on a digital object identifier, DOI) or a software in which the database is embedded.
 
-**Use the following format**: Authors. year-of-database-publication. Database title, version number,
-other disambiguation identifiers. Location. Date accessed. DOI
+This database information should be arranged to follow the APA citation style for web pages:
+> Authors. (year-of-database-publication). *Title-including-version-number-and-other-disambiguation-identifiers.* Retrieved [date-of-retrieval] from [location-which-is-either-url-or-software]
 
-**Example 1:** EXIOBASE Consortium. 2014. EXIOBASE, version 2.2.2,
-product-by-product, industry-technology-assumption coefficients for year
-2007,
-https://www.exiobase.eu/index.php/data-download/exiobase2-year-2007-full-data-set/79-mriot-pxp-ita-coefficient-version2-2-2.
-Accessed 2018-02-01
+**Example 1:** EXIOBASE Consortium. (2014). *EXIOBASE, version 2.2.2, product-by-product, industry-technology-assumption coefficients, for year 2007*. Retrieved November 11, 2018, from https://www.exiobase.eu/index.php/data-download/exiobase2-year-2007-full-data-set/79-mriot-pxp-ita-coefficient-version2-2-2.
 
-**Example 2:** Ecoinvent Centre. 2016. Ecoinvent database, version 3.3,
-cut-off system model, as embedded in Simapro Software version 8.4.
-Accessed 2018-02-01.
+**Example 2:** Ecoinvent Centre. (2016). *Ecoinvent database, version 3.3, cut-off system model*. Retrieved February 1, 2018, from Simapro Software version 8.4.
 
 In *addition* to the direct database citation, the authors are free to
 cite a scientific publication or a report that accompanies the database.
@@ -36,17 +28,11 @@ license agreement of the database provider. However this complementary
 citation does *not* replace a direct citation of the database, which
 remains mandatory to clearly identify the version of the database used.
 
-**Example 1 of complementary citation for database:** Wood, R., Stadler,
-K., Bulavskaya, T., Lutter, S., Giljum, S., de Koning, A., Kuenen, J.,
-Schütz, H., Acosta-Fernández, J., Usubiaga, A., Simas, M., Ivanova, O.,
-Weinzettel, J., Schmidt, J.H., Merciai, S., Tukker, A. 2015. Global
-sustainability accounting-developing EXIOBASE for multi-regional
-footprint analysis. *Sustainability* 7(1):138-163
+**Example 1 of complementary citation for database:**
+ Wood, R., Stadler, K., Bulavskaya, T., Lutter, S., Giljum, S., de Koning, A., … Tukker, A. (2014). Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis. *Sustainability*, 7(1), 138–163. https://doi.org/10.3390/su7010138
 
-**Example 2 of complementary citation for database:** Wernet, G., C.
-Bauer, B. Steubing, J. Reinhard, E. Moreno-Ruiz, and B. Weidema. 2016.
-The ecoinvent database version 3 (part I): overview and methodology.
-*International Journal of Life Cycle Assessment* 21(9): 1218–1230.
+**Example 2 of complementary citation for database:**
+Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-ruiz, E., & Weidema, B. (2016). The ecoinvent database version 3 (part I): overview and methodology. The International Journal of Life Cycle Assessment, 3(9), 1218–1230. https://doi.org/10.1007/s11367-016-1087-8
 
 
 Addition to existing sections: 10. Artwork, figure and tables
