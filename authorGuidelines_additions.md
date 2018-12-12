@@ -48,7 +48,7 @@ the numerical data can be readily recognized by both software and humans
 should be chosen, such as comma-separated-value (CSV) files or a
 spreadsheet (e.g., .xlsx or .ods files).
 
-In the same manner, large tables --- more than <+x+> numerical
+In the same manner, large tables --- more than 50 numerical
 data points --- in the manuscript should also be provided in a numerical
 format to avoid the inefficient and error-prone process of manually
 copying large amounts of data from the article.
