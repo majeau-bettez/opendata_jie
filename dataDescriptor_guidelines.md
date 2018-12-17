@@ -25,6 +25,7 @@ STRUCTURE
 
     -   Scope of dataset: what is included in the dataset and what is
         not; what dimensions were recorded
+    -   System boundaries, exceptions, units, etc.
     -   Presentation of the dataset's structure, file format,
         documentation, metadata, key features, location
 
@@ -40,11 +41,15 @@ STRUCTURE
 -   Compilation methods
 
     -   How the data was obtained, reconciled
+    -   Precise description of the input data
+    -   Description of all necessary processing steps to produce the output data
+    -   Description or provision of the software / code that was used.
 
 -   Quality control and technical validation
 
     -   The analyses that were implemented to catch errors or to assess
         the overall validity of the dataset.
+    -   Description of the software / code that was used for validation.
 
 -   Reusability
 

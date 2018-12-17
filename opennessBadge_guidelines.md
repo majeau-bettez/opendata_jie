@@ -9,7 +9,7 @@ exhibit higher levels of data openness, accessibility, and
 interoperability between data formats beyond the strict minimum for
 publication. The International Society for Industrial Ecology thus
 strives to promote the contribution of reusable and interoperable data
-in a wide range of research context.
+in a wide range of research context ([Hertwich et al. 2018](https://doi.org/10.1111/jiec.12738)).
 
 The badge is optional. It aims to be flexible, with two dimensions
 rewarding (1) the extent of data contribution and (2) the level of data
@@ -20,16 +20,16 @@ two dimensions and two levels lead to four distinct badges.
 
 ![The two dimensions and two levels of the Data Openness Badge](fig/DTTF_badge_v6.png "The two dimensions and two levels of the Data Openness Badge"){ width=800px }
 
-
 The following table summarizes the evaluation criteria, which are then
-explained in greater detail in the following sections
+explained in greater detail in the following sections.
 
 
 |       |Data contribution   |Data accessibility|
 |-------|:-------------------|:-----------------|
-|Gold   |Entire system description is contributed|Human & machine readable, **and** directly importable into free analysis software
-|Silver |*Option 1*: Detailed, useful, and self‐contained descriptions of significant parts of the system;<br> *Option 2*: Total exchanges of the technological system with the environment published in an uncharacterized form|Human & machine readable, **or** directly importable into free analysis software
+| Gold   |Entire system description is contributed|Human & machine readable, **and** directly importable into free analysis software |
+| Silver |*Option 1*: Detailed, useful, and self‐contained descriptions of significant parts of the system;<br> *Option 2*: Total exchanges of the technological system with the environment published in an uncharacterized form | Human & machine readable, **or** directly importable into free analysis software |
 
+*Articles that involve important contributions of new data, please also consider submitting accompanying [Data Descriptor](dataDescriptor_guidelines.md) and / or [Software Descriptor](software_article_guidelines.md) articles. The acceptance of such articles will automatically result in the fulfilment of a gold/gold Data Openness Badge.*
 
 2. Data Contribution
 --------------------
