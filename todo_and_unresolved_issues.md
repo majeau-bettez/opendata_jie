@@ -14,6 +14,8 @@ TODO
 
 - Add a figure showing the mapping between APA fields and our requirements
 
+- Add guidelines for reviewers on the minimal requirements (and badges?)
+
 
 
 Comment from Konstantin
