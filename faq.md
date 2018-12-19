@@ -6,6 +6,8 @@ FAQ on Publication criteria - Data citation
 Databases should be directly cited stating explicitly and unambiguously the version used. Solely citing a report or a publication describing a database is insufficient. The JIE citation style for databases follows the overall structure of APA webpage citation:
 > Authors. (year-of-database-publication). *Title-including-version-number-and-other-disambiguation-identifiers.* Retrieved [date-of-retrieval] from [location-which-is-either-url-or-software]
 
+Please use only static URLs, preferably using persistent identifiers or DOIs.
+
 ### The authors of a dataset require that I cite their article if my study relies on their dataset. Should I cite this article AND the dataset separately?
 
 Yes. You should cite both.
@@ -16,7 +18,7 @@ No. In most cases, that would be impractical, and therefore only the citation of
 
 ### What do you mean by database “location”?
 
-“Location” points to the source of the database, as accessed by the researcher. This information will typically be the URL of a website or the name and version of a software that ships with the prepackaged database.
+“Location” points to the source of the database, as accessed by the researcher. This information will typically be the URL of a website or the name and version of a software that ships with the prepackaged database. Please do not use dynamic URLs as they are usually not persistent.
 
 ### When I obtain a dataset pre-packaged in a software, why must I specify the software name and version?
 
@@ -36,7 +38,7 @@ The quantitative data in your article's figures should also be published in a nu
 
 ### Why do I have to do this?
 
-This measure aims to facilitate reuse of published data and results. Although figures are essential to communicate results, extracting data for reuse from these figures necessarily implies a visual evaluation, which can be laborious and imprecise. By providing the same data in numerical, machine readable format, these barriers and uncertainties are removed.
+This measure aims to facilitate reuse of published data and results. Although figures are essential to communicate results, extracting data for reuse from these figures necessarily implies a visual evaluation, which can be laborious and imprecise. By providing the same data in numerical, machine readable format, these barriers and uncertainties are removed. For more information, please also refer to [Hertwich et al. 2018](https://doi.org/10.1111/jiec.12738).
 
 ### Some of the data that led to a figure is proprietary, I cannot share it. Does this mean I cannot meet this publication requirement?
 
@@ -65,7 +67,9 @@ Any data in a figure can be extracted with enough effort. It is simple to print 
 
 ### Where should I publish this data?
 
-For the data directly present in figures, authors are free to publish this as part of the supporting information (SI). Alternatively, the authors may choose to publish these data in a trusted data repository, which will assign a digital object identifier (DOI) to the data set, such that it can be cited in the article.
+For the data directly present in figures, authors are free to publish this as part of the supporting information (SI). Alternatively, the authors may choose to publish these data in a trusted data repository, which will assign a digital object identifier (DOI) to the data set, such that it can be cited in the article. 
+
+For large datasets we encourage authors to consider submitting an accompanying Data Descriptor article.
 
 Data Openness Badge
 ===================
