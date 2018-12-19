@@ -4,5 +4,3 @@ Because IE research strives to reach a holistic system perspective, each individ
 
 At the Journal of Industrial Ecology, we believe that IE datasets should be recognized as scientific outcomes in their own rights, independent of the multiple investigations and findings that may rely on the validity of their data. We are therefore creating a new *IE Data* section.
 
-Data Descriptor articles are only one form of articles that fall into this new section. ...
-

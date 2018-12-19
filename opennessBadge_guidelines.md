@@ -29,7 +29,7 @@ explained in greater detail in the following sections.
 | Gold   |Entire system description is contributed|Human & machine readable, **and** directly importable into free analysis software |
 | Silver |*Option 1*: Detailed, useful, and self‐contained descriptions of significant parts of the system;<br> *Option 2*: Total exchanges of the technological system with the environment published in an uncharacterized form | Human & machine readable, **or** directly importable into free analysis software |
 
-*Articles that involve important contributions of new data, please also consider submitting accompanying [Data Descriptor](dataDescriptor_guidelines.md) and / or [Software Descriptor](software_article_guidelines.md) articles. The acceptance of such articles will automatically result in the fulfilment of a gold/gold Data Openness Badge.*
+*Articles that involve important contributions of new data, please also consider submitting accompanying [Data Descriptor](dataDescriptor_guidelines.md) and / or [Software Descriptor](software_article_guidelines.md) articles.*
 
 2. Data Contribution
 --------------------

@@ -12,16 +12,17 @@ citation must provide sufficient information to unambiguously identify
 the specific database used. Whenever applicable, this citation should
 provide database version number and any other disambiguating
 identifiers, the year of publication, the date of access, and the
-location at which it was accessed. This location can be *either* a URL (preferably based on a digital object identifier, DOI) or a software in which the database is embedded. Please use only static URLs, preferably with persistent identifiers or DOIs. 
+location at which it was accessed. Importantly, this location can be *either* a URL *or* a software in which the database is embedded. Please use only static URLs, preferably with persistent identifiers or DOIs.
 
 This database information should be arranged to follow the APA citation style for web pages:
 > Authors. (year-of-database-publication). *Title-including-version-number-and-other-disambiguation-identifiers.* Retrieved [date-of-retrieval] from [location-which-is-either-url-or-software]
 
-### Examples
+The necessary disambiguation identifier varies from dataset to dataset, so please respect or exceed the data providers' suggested citation informations ([e.g., instructions from ecoinvent](https://www.ecoinvent.org/support/faqs/first-time-users/how-do-i-cite-ecoinvent.html)).
 
-*Pull requests for additional use cases as the ones below are welcome.*
+### Examples of required, direct database citations
 
-Please also consider suggested citations by the data provider, e.g. https://www.ecoinvent.org/support/faqs/first-time-users/how-do-i-cite-ecoinvent.html
+\[*Comment: Pull requests for additional use cases as the ones below are welcome.*\]
+
 
 **Example 1:** EXIOBASE Database
 
@@ -31,7 +32,9 @@ Please also consider suggested citations by the data provider, e.g. https://www.
 
 > Ecoinvent Centre. (2016). *Ecoinvent database, version 3.3, cut-off system model*. Retrieved February 1, 2018, from Simapro Software version 8.4.
 
-In *addition* to the direct database citation, the authors are free to
+### Complementary database citations
+
+In *addition* to the direct database citations described above, the authors are free to
 cite a scientific publication or a report that accompanies the database.
 This can be necessary to comply with the citation requirements and
 license agreement of the database provider. However this complementary
@@ -42,11 +45,9 @@ remains mandatory to clearly identify the version of the database used.
 
 Wood, R., Stadler, K., Bulavskaya, T., Lutter, S., Giljum, S., de Koning, A., … Tukker, A. (2014). Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis. *Sustainability*, 7(1), 138–163. https://doi.org/10.3390/su7010138
 
-**Example 4:** of complementary citation for ecoinvent:
+**Example 4:** Complementary citation requested for ecoinvent (further information [here](https://www.ecoinvent.org/support/faqs/first-time-users/how-do-i-cite-ecoinvent.html)):
 
-See also: https://www.ecoinvent.org/support/faqs/first-time-users/how-do-i-cite-ecoinvent.html
-
-Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-ruiz, E., & Weidema, B. (2016). The ecoinvent database version 3 (part I): overview and methodology. The International Journal of Life Cycle Assessment, 3(9), 1218–1230. https://doi.org/10.1007/s11367-016-1087-8
+Wernet, G., Bauer, C., Steubing, B., Reinhard, J., Moreno-Ruiz, E., & Weidema, B. (2016). The ecoinvent database version 3 (part I): overview and methodology. *International Journal of Life Cycle Assessment*, 21(9), 1218–1230. https://doi.org/10.1007/s11367-016-1087-8
 
 
 Addition to existing sections: 10. Artwork, figure and tables
@@ -72,7 +73,7 @@ copying large amounts of data from the article.
 Authors are free to fulfill this requirement by submitting the data
 files as a supporting information (SI) to the article or by publishing
 the dataset in a repository and citing it (see section on data
-publication). In either case the relationship between manuscript figure or article must be explained in the data file, e.g. "Data used for plotting Figure 4".
+publication). In either case the relationship between manuscript figure or article must be explicit in the data file, e.g. "Data plotted in Figure 4 of the manuscript".
 
 
 New section: Optional Data publication rewarded by Data Openness Badges
