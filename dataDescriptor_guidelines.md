@@ -1,7 +1,7 @@
 Guidelines for Data Descriptor articles
 =======================================
 
-Each *Data Descriptor* article will focus on the methodology for building or
+XXXXXXXEach *Data Descriptor* article will focus on the methodology for building or
 expanding a dataset, the different quality controls that ensure its validity,
 along with the scope, properties and features of this dataset. Articles
 presented to this section should not test a scientific hypothesis or present
