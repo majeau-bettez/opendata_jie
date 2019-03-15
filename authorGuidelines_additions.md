@@ -81,7 +81,7 @@ New section: Optional Data publication rewarded by Data Openness Badges
 
 \[Could be after 12. Suporting Information\]
 
-Except for data that is directly represented in the figures and tables
+Except for data that are directly represented in the figures and tables
 of the manuscript (See 10. Artwork, figures and tables), there is no
 mandatory publication of data in support of research articles submitted
 to the *Journal of Industrial Ecology*.
