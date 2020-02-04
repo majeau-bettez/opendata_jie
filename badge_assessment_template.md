@@ -3,6 +3,13 @@ ecology (IE) data, not the scientific validity or novelty of the analysis. For
 detailed explanations and examples of the checkpoints below, lease refer to the
 [website of the Journal of Industrial Ecology](https://jie.yale.edu/badges).
 
+Data badges have two dimensions rewarding (1) the extent of data contribution
+and (2) the level of data accessibility, that is, the interoperability and
+reusability of the data supplied. It also aims to be progressive, with two
+levels, gold and silver, for each dimension. These two dimensions and two
+levels lead to four distinct badges.  The evaluation of your request for a data
+badge follows this scheme.
+
 
 Data Contribution: Reusable, organized IE data
 ==============================================================
