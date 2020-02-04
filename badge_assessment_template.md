@@ -1,6 +1,6 @@
 This review solely assesses the contribution and accessibility of industrial
 ecology (IE) data, not the scientific validity or novelty of the analysis. For
-detailed explanations and examples of the checkpoints below, lease refer to the
+detailed explanations and examples of the checkpoints below, please refer to the
 [website of the Journal of Industrial Ecology](https://jie.yale.edu/badges).
 
 Data badges have two dimensions rewarding (1) the extent of data contribution
